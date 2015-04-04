@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In his day job, David oversees teams of designers, UX and developers to create mobile apps for U.S. Service Members and Veterans. In the past, he has worked on digital solutions for PhRMA, IFAW and the House Republican Conference.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Find out more at [The National Center for Telehealth and Technology](http://t2health.dcoe.mil) or at my [Personal Website](http://dccooper.co)
